@@ -1,0 +1,5 @@
+{
+  "name": "Halloween Costume Generator",
+  "description": "An AI-powered app to generate creative Halloween costume ideas from a single image. Get a costume name, description, list of materials, and step-by-step instructions instantly.",
+  "requestFramePermissions": []
+}
